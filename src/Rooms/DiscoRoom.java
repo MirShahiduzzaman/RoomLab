@@ -18,6 +18,6 @@ public class DiscoRoom extends Room
         occupant = x;
         x.setxLoc(this.xLoc);
         x.setyLoc(this.yLoc);
-        System.out.println("Wow! You found a disco room. This isn't like all the other disco rooms tho. Its better.");
+        System.out.println("Yay! You find an awesome disco room. ");
     }
 }
